@@ -1,4 +1,15 @@
-.navbar-collapse{
-font-family: 'Raleway', sans-serif;
-}
+/*
+Color References
+Green: #79b044
+Salmon: #dd5638
+Blue gray: #3e4249
+*/
 
+/*General*/
+body{
+    margin-top: 50px;
+    font-family: 'Raleway', sans-serif;
+    font-size: 16px;
+    background: url('../img/tile.jpg') top left repeat;
+
+}
